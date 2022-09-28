@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Acerte o número aleatório</string>
+    <string name="buttonSorteia">Sortear</string>
+    <string name="textAcerteONumero">Acerte qual o número sorteado</string>
+    <string name="textDigiteNumero">Digite um número de 0 a 10</string>
+</resources>
